@@ -1,3 +1,6 @@
 Arroz
 Lentejas
+<<<<<<< HEAD
 Queso
+=======
+>>>>>>> 2efb9f426431c194df2781c60bb4146e53464553
