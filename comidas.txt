@@ -1,10 +1,2 @@
 Arroz
-Lentejas
-<<<<<<< HEAD
-<<<<<<< HEAD
-Queso
-=======
->>>>>>> 2efb9f426431c194df2781c60bb4146e53464553
-=======
-Jamon
->>>>>>> parent of a6998a0... agrego queso
+Leche
